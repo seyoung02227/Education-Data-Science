@@ -29,10 +29,10 @@ In this data exploration, I narrowed down to focus on the five states with the h
 - All five states have increased their counts for students with disabilities. 
 
 ### 5. [Text Analysis with Social Media Data](https://github.com/seyoung02227/Education-Data-Science/blob/main/11_SNS_sentiment_analysis.R)
-In this data exploration, I practiced basic text analysis techniques 
+In this data exploration, I practiced basic text analysis techniques.
 
 ### 6. [Exploring Relationships Using Social Network Analysis](https://github.com/seyoung02227/Education-Data-Science/blob/main/12_SNS_social_network.R)
-In this data exploration, I collected twitter posts using the #tidytuesday hashtag to visualize social network data. I used Sociograms to visualize which user is interacting with whom.. 
+In this data exploration, I collected twitter posts using the #tidytuesday hashtag to visualize social network data. I used Sociograms to visualize which user is interacting with whom.
 
 ### 7. [Multilevel Models](https://github.com/seyoung02227/Education-Data-Science/blob/main/13_multilevel_models.R)
 
