@@ -5,14 +5,14 @@ Analyzing and visualizing educational data using R.
 The following code files were created by following the [Data Science in Education using R](https://datascienceineducation.com/) book. 
 
 ## Details
-### 1. [Foundational Skills](https://github.com/seyoung02227/Education-Data-Science/blob/main/6_foundation_skills.R)
+### 1. [Foundational Skills](https://github.com/seyoung02227/Education-Data-Science/blob/main/06_foundation_skills.R)
 This data exploration covered the concepts of Projects, functions, packages, and data, along with the foundational ideas, concepts, and skills related to doing data science in R. 
 
-### 2. [Online Science Class Data](https://github.com/seyoung02227/Education-Data-Science/blob/main/7_online_science_class_data.R)
+### 2. [Online Science Class Data](https://github.com/seyoung02227/Education-Data-Science/blob/main/07_online_science_class_data.R)
 - Worked on taking unprocessed or raw data to load, view, and process it through a series of stpes. 
 - Created a basic regressional model to find that the time that students spent on the course was positively (and statistically significantly) related to students’ final grades, and that there appeared to be differences by subject.
 
-### 3. [Approaching Gradebook Data](https://github.com/seyoung02227/Education-Data-Science/blob/main/gradebook_data.R)
+### 3. [Approaching Gradebook Data](https://github.com/seyoung02227/Education-Data-Science/blob/main/08_gradebook_data.R)
 - Imported, cleaned, and transfored data. 
 - Explored the data using data visualization before modeling the data using linear regression.
 - Used [RMarkdown](https://rmarkdown.rstudio.com/) to share and communicate the analysis results to others 
